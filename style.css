@@ -13,7 +13,7 @@ body{
 }
 .container p{
     text-align: center;
-    font-size: 25px;
+    font-size: 35px;
 }
 .btn-container{
    display: flex;
